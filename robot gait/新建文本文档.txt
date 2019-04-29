@@ -1,0 +1,15 @@
+JavaEE视频教程列表
+Java编程学习第一季：av35556299
+Java编程学习第二季：av37316788
+Java编程学习第三季：av37317551
+Java编程学习第四季：av37325241
+JDBC编程和MySQL数据库：av37325712
+Web前端第一季（HTML）：av35875257
+Web前端第三季（JavaScript）：av37383464
+Web前端第四季（jQuery）：av37384902
+MySQL数据库从零到精通：av35874751
+
+<area style="cursor:pointer;outline:none;" shape="rect" coords="0,0,270,129" 
+href="//www.baidu.com/s?wd=%e5%9c%a3%e8%af%9e%e8%8a%82&amp;
+sa=ire_dl_gh_logo&amp;rsv_dl=igh_logo_pc" target="_blank" title="圣诞节快乐" 
+onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})">
